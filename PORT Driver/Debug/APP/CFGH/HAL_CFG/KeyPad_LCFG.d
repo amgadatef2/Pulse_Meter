@@ -1,0 +1,7 @@
+APP/CFGH/HAL_CFG/KeyPad_LCFG.d APP/CFGH/HAL_CFG/KeyPad_LCFG.o: \
+ ../APP/CFGH/HAL_CFG/KeyPad_LCFG.c ../APP/CFGH/HAL_CFG/KeyPad_LCFG.h \
+ ../LIB/STD.h
+
+../APP/CFGH/HAL_CFG/KeyPad_LCFG.h:
+
+../LIB/STD.h:
